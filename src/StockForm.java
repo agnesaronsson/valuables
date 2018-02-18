@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Valuables;
-
 import javax.swing.*;
 
 public class StockForm extends JPanel {
