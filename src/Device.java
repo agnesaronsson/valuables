@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Valuables;
-
 class Device extends Valuable {
 	private double price;
 	private int wear;
