@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Valuables;
-
 class Jewelry extends Valuable {
 	private int gems;
 	private boolean element;
