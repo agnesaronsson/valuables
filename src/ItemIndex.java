@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Valuables;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.awt.*;
@@ -71,7 +69,7 @@ public class ItemIndex extends JFrame {
 		JScrollPane window = new JScrollPane(output);
 		add(window, BorderLayout.CENTER);
 
-		setDefaultCloseOperation(EXIT_ON_CLOSE); //do_nothing_on_close, default är minimera
+		setDefaultCloseOperation(EXIT_ON_CLOSE); //do_nothing_on_close, default Ã¤r minimera
 		setSize(430,300);
 		setLocationRelativeTo(null);
 		setVisible(true);
