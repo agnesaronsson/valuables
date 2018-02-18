@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Valuables;
-
 abstract class Valuable {
 	private String name;
 	
