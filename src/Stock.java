@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package Valuables;
-
 class Stock extends Valuable {
 	private int shares;
 	private double price;
